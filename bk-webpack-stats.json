@@ -1,0 +1,127 @@
+{
+  "status": "done",
+  "assets": {
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/favicon.ico",
+      "publicPath": "http://61.247.234.200:8081/favicon.ico"
+    },
+    "fonts/仓耳小丸子.64a7acb4.woff2": {
+      "name": "fonts/仓耳小丸子.64a7acb4.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/仓耳小丸子.64a7acb4.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/仓耳小丸子.64a7acb4.woff2"
+    },
+    "fonts/优设标题黑.df0c1330.woff2": {
+      "name": "fonts/优设标题黑.df0c1330.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/优设标题黑.df0c1330.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/优设标题黑.df0c1330.woff2"
+    },
+    "fonts/字制区喜脉体.cb8f58a4.woff2": {
+      "name": "fonts/字制区喜脉体.cb8f58a4.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/字制区喜脉体.cb8f58a4.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/字制区喜脉体.cb8f58a4.woff2"
+    },
+    "fonts/峰广明锐体.8c45ca35.woff2": {
+      "name": "fonts/峰广明锐体.8c45ca35.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/峰广明锐体.8c45ca35.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/峰广明锐体.8c45ca35.woff2"
+    },
+    "fonts/得意黑.7caef6f6.woff2": {
+      "name": "fonts/得意黑.7caef6f6.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/得意黑.7caef6f6.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/得意黑.7caef6f6.woff2"
+    },
+    "fonts/摄图摩登小方体.7d229dc8.woff2": {
+      "name": "fonts/摄图摩登小方体.7d229dc8.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/摄图摩登小方体.7d229dc8.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/摄图摩登小方体.7d229dc8.woff2"
+    },
+    "fonts/站酷快乐体.8fd3ebd9.woff2": {
+      "name": "fonts/站酷快乐体.8fd3ebd9.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/站酷快乐体.8fd3ebd9.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/站酷快乐体.8fd3ebd9.woff2"
+    },
+    "fonts/素材集市康康体.ceb20972.woff2": {
+      "name": "fonts/素材集市康康体.ceb20972.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/素材集市康康体.ceb20972.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/素材集市康康体.ceb20972.woff2"
+    },
+    "fonts/素材集市酷方体.42328465.woff2": {
+      "name": "fonts/素材集市酷方体.42328465.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/素材集市酷方体.42328465.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/素材集市酷方体.42328465.woff2"
+    },
+    "fonts/途牛类圆体.a94398b6.woff2": {
+      "name": "fonts/途牛类圆体.a94398b6.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/途牛类圆体.a94398b6.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/途牛类圆体.a94398b6.woff2"
+    },
+    "fonts/锐字真言体.487089ad.woff2": {
+      "name": "fonts/锐字真言体.487089ad.woff2",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/fonts/锐字真言体.487089ad.woff2",
+      "publicPath": "http://61.247.234.200:8081/fonts/锐字真言体.487089ad.woff2"
+    },
+    "icons/android-chrome-192x192.png": {
+      "name": "icons/android-chrome-192x192.png",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/icons/android-chrome-192x192.png",
+      "publicPath": "http://61.247.234.200:8081/icons/android-chrome-192x192.png"
+    },
+    "icons/android-chrome-512x512.png": {
+      "name": "icons/android-chrome-512x512.png",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/icons/android-chrome-512x512.png",
+      "publicPath": "http://61.247.234.200:8081/icons/android-chrome-512x512.png"
+    },
+    "icons/android-chrome-maskable-192x192.png": {
+      "name": "icons/android-chrome-maskable-192x192.png",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/icons/android-chrome-maskable-192x192.png",
+      "publicPath": "http://61.247.234.200:8081/icons/android-chrome-maskable-192x192.png"
+    },
+    "icons/android-chrome-maskable-512x512.png": {
+      "name": "icons/android-chrome-maskable-512x512.png",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/icons/android-chrome-maskable-512x512.png",
+      "publicPath": "http://61.247.234.200:8081/icons/android-chrome-maskable-512x512.png"
+    },
+    "icons/apple-touch-icon-152x152.png": {
+      "name": "icons/apple-touch-icon-152x152.png",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/icons/apple-touch-icon-152x152.png",
+      "publicPath": "http://61.247.234.200:8081/icons/apple-touch-icon-152x152.png"
+    },
+    "icons/favicon-16x16.png": {
+      "name": "icons/favicon-16x16.png",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/icons/favicon-16x16.png",
+      "publicPath": "http://61.247.234.200:8081/icons/favicon-16x16.png"
+    },
+    "icons/favicon-32x32.png": {
+      "name": "icons/favicon-32x32.png",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/icons/favicon-32x32.png",
+      "publicPath": "http://61.247.234.200:8081/icons/favicon-32x32.png"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/index.html",
+      "publicPath": "http://61.247.234.200:8081/index.html"
+    },
+    "js/app.js": {
+      "name": "js/app.js",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/js/app.js",
+      "publicPath": "http://61.247.234.200:8081/js/app.js"
+    },
+    "js/chunk-vendors.js": {
+      "name": "js/chunk-vendors.js",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/js/chunk-vendors.js",
+      "publicPath": "http://61.247.234.200:8081/js/chunk-vendors.js"
+    },
+    "manifest.json": {
+      "name": "manifest.json",
+      "path": "/home/manjot/ML/paperport/(name of Django app)/static/dist/manifest.json",
+      "publicPath": "http://61.247.234.200:8081/manifest.json"
+    }
+  },
+  "chunks": {
+    "app": [
+      "js/chunk-vendors.js",
+      "js/app.js"
+    ]
+  },
+  "publicPath": "http://61.247.234.200:8081/"
+}

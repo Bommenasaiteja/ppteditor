@@ -1,0 +1,134 @@
+{
+  "status": "done",
+  "assets": {
+    "app.1b26923509bf05ff.hot-update.js": {
+      "name": "app.1b26923509bf05ff.hot-update.js",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/app.1b26923509bf05ff.hot-update.js",
+      "publicPath": "http://localhost:8081/app.1b26923509bf05ff.hot-update.js"
+    },
+    "app.1b26923509bf05ff.hot-update.json": {
+      "name": "app.1b26923509bf05ff.hot-update.json",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/app.1b26923509bf05ff.hot-update.json",
+      "publicPath": "http://localhost:8081/app.1b26923509bf05ff.hot-update.json"
+    },
+    "app.9fa01f49c05dfa16.hot-update.js": {
+      "name": "app.9fa01f49c05dfa16.hot-update.js",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/app.9fa01f49c05dfa16.hot-update.js",
+      "publicPath": "http://localhost:8081/app.9fa01f49c05dfa16.hot-update.js"
+    },
+    "app.9fa01f49c05dfa16.hot-update.json": {
+      "name": "app.9fa01f49c05dfa16.hot-update.json",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/app.9fa01f49c05dfa16.hot-update.json",
+      "publicPath": "http://localhost:8081/app.9fa01f49c05dfa16.hot-update.json"
+    },
+    "app.e4a6cdb8b1c1d58c.hot-update.js": {
+      "name": "app.e4a6cdb8b1c1d58c.hot-update.js",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/app.e4a6cdb8b1c1d58c.hot-update.js",
+      "publicPath": "http://localhost:8081/app.e4a6cdb8b1c1d58c.hot-update.js"
+    },
+    "app.e4a6cdb8b1c1d58c.hot-update.json": {
+      "name": "app.e4a6cdb8b1c1d58c.hot-update.json",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/app.e4a6cdb8b1c1d58c.hot-update.json",
+      "publicPath": "http://localhost:8081/app.e4a6cdb8b1c1d58c.hot-update.json"
+    },
+    "app.eea17198acaf7797.hot-update.js": {
+      "name": "app.eea17198acaf7797.hot-update.js",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/app.eea17198acaf7797.hot-update.js",
+      "publicPath": "http://localhost:8081/app.eea17198acaf7797.hot-update.js"
+    },
+    "app.eea17198acaf7797.hot-update.json": {
+      "name": "app.eea17198acaf7797.hot-update.json",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/app.eea17198acaf7797.hot-update.json",
+      "publicPath": "http://localhost:8081/app.eea17198acaf7797.hot-update.json"
+    },
+    "app.js": {
+      "name": "app.js",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/app.js",
+      "publicPath": "http://localhost:8081/app.js"
+    },
+    "chunk-vendors.e4a6cdb8b1c1d58c.hot-update.js": {
+      "name": "chunk-vendors.e4a6cdb8b1c1d58c.hot-update.js",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/chunk-vendors.e4a6cdb8b1c1d58c.hot-update.js",
+      "publicPath": "http://localhost:8081/chunk-vendors.e4a6cdb8b1c1d58c.hot-update.js"
+    },
+    "chunk-vendors.js": {
+      "name": "chunk-vendors.js",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/chunk-vendors.js",
+      "publicPath": "http://localhost:8081/chunk-vendors.js"
+    },
+    "fonts/仓耳小丸子.64a7acb4.woff2": {
+      "name": "fonts/仓耳小丸子.64a7acb4.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/仓耳小丸子.64a7acb4.woff2",
+      "publicPath": "http://localhost:8081/fonts/仓耳小丸子.64a7acb4.woff2"
+    },
+    "fonts/优设标题黑.df0c1330.woff2": {
+      "name": "fonts/优设标题黑.df0c1330.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/优设标题黑.df0c1330.woff2",
+      "publicPath": "http://localhost:8081/fonts/优设标题黑.df0c1330.woff2"
+    },
+    "fonts/字制区喜脉体.cb8f58a4.woff2": {
+      "name": "fonts/字制区喜脉体.cb8f58a4.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/字制区喜脉体.cb8f58a4.woff2",
+      "publicPath": "http://localhost:8081/fonts/字制区喜脉体.cb8f58a4.woff2"
+    },
+    "fonts/峰广明锐体.8c45ca35.woff2": {
+      "name": "fonts/峰广明锐体.8c45ca35.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/峰广明锐体.8c45ca35.woff2",
+      "publicPath": "http://localhost:8081/fonts/峰广明锐体.8c45ca35.woff2"
+    },
+    "fonts/得意黑.7caef6f6.woff2": {
+      "name": "fonts/得意黑.7caef6f6.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/得意黑.7caef6f6.woff2",
+      "publicPath": "http://localhost:8081/fonts/得意黑.7caef6f6.woff2"
+    },
+    "fonts/摄图摩登小方体.7d229dc8.woff2": {
+      "name": "fonts/摄图摩登小方体.7d229dc8.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/摄图摩登小方体.7d229dc8.woff2",
+      "publicPath": "http://localhost:8081/fonts/摄图摩登小方体.7d229dc8.woff2"
+    },
+    "fonts/站酷快乐体.8fd3ebd9.woff2": {
+      "name": "fonts/站酷快乐体.8fd3ebd9.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/站酷快乐体.8fd3ebd9.woff2",
+      "publicPath": "http://localhost:8081/fonts/站酷快乐体.8fd3ebd9.woff2"
+    },
+    "fonts/素材集市康康体.ceb20972.woff2": {
+      "name": "fonts/素材集市康康体.ceb20972.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/素材集市康康体.ceb20972.woff2",
+      "publicPath": "http://localhost:8081/fonts/素材集市康康体.ceb20972.woff2"
+    },
+    "fonts/素材集市酷方体.42328465.woff2": {
+      "name": "fonts/素材集市酷方体.42328465.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/素材集市酷方体.42328465.woff2",
+      "publicPath": "http://localhost:8081/fonts/素材集市酷方体.42328465.woff2"
+    },
+    "fonts/途牛类圆体.a94398b6.woff2": {
+      "name": "fonts/途牛类圆体.a94398b6.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/途牛类圆体.a94398b6.woff2",
+      "publicPath": "http://localhost:8081/fonts/途牛类圆体.a94398b6.woff2"
+    },
+    "fonts/锐字真言体.487089ad.woff2": {
+      "name": "fonts/锐字真言体.487089ad.woff2",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/fonts/锐字真言体.487089ad.woff2",
+      "publicPath": "http://localhost:8081/fonts/锐字真言体.487089ad.woff2"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/index.html",
+      "publicPath": "http://localhost:8081/index.html"
+    },
+    "manifest.json": {
+      "name": "manifest.json",
+      "path": "/home/sj/Desktop/paperslide/paperslide/ppteditor/dist/manifest.json",
+      "publicPath": "http://localhost:8081/manifest.json"
+    }
+  },
+  "chunks": {
+    "app": [
+      "chunk-vendors.js",
+      "app.js"
+    ]
+  },
+  "publicPath": "http://localhost:8081/",
+  "error": "ModuleNotFoundError",
+  "message": "Module not found: Error: Can't resolve '/home/sj/Desktop/paperslide/paperslide/ppteditor/node_modules/ts-loader/index.js' in '/home/sj/Desktop/paperslide/paperslide/ppteditor'"
+}
